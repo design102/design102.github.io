@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motion102.github.io" resolutions="1x" timestamp="1569852533854">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.io" resolutions="1x" timestamp="1569852855674">
   <folder name="css">
     <file name="site_global.css" crc="14225328"/>
     <file name="index.css" crc="285232071" ref="index"/>
@@ -61,13 +61,13 @@
     <folder name="css">
       <file name="index.css" crc="4046498137" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="22128625" seo="true" mt="1407282716505" redirect="false"/>
+    <file name="index.html" crc="3840868343" seo="true" mt="1407282716505" redirect="false"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="263663261" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4285982527" seo="true" mt="1407282697538" redirect="false"/>
+    <file name="index.html" crc="4284769271" seo="true" mt="1407282697538" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4249631757" seo="true" mt="1569852532936" redirect="true"/>
+  <file name="index.html" crc="416301398" seo="true" mt="1569852745430" redirect="true"/>
 </manifest>
