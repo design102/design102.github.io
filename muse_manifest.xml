@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1571664902243">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1571665176605">
   <folder name="css">
     <file name="site_global.css" crc="4050885443"/>
-    <file name="index.css" crc="4108972419" ref="index"/>
+    <file name="index.css" crc="510212373" ref="index"/>
     <file name="graphics.css" crc="6233829" ref="graphics"/>
     <file name="portfolio.css" crc="3985886792" ref="portfolio"/>
     <file name="animation.css" crc="3999344951" ref="animation"/>
@@ -47,8 +47,8 @@
     <file name="loading.gif" crc="3815509949" ref="index:portfolio:graphics:animation"/>
     <file name="texture.jpg" crc="397322237" ref="index:graphics:animation">
       <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
       <caption webpage="graphics" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="a1-poster-rgb-crop-u3564.jpg" crc="4062817517" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -68,10 +68,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="_onboarding-2.jpg" crc="445820558" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_onboarding-2-crop-u501.jpg" crc="222390381" seo="true" ref="index">
+    <file name="_onboarding-2.jpg" crc="16172201" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ani1-crop-u511.jpg" crc="273244859" seo="true" ref="index">
@@ -117,7 +114,7 @@
       <caption webpage="graphics" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="421043208" seo="true" mt="1571664726055" redirect="true"/>
+  <file name="index.html" crc="452202172" seo="true" mt="1571665156057" redirect="true"/>
   <file name="portfolio.html" crc="472645723" seo="true" mt="1571664758606" redirect="true"/>
   <file name="graphics.html" crc="392662817" seo="true" mt="1571664786258" redirect="true"/>
   <file name="animation.html" crc="82720215" seo="true" mt="1571664812653" redirect="true"/>
