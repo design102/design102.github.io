@@ -33,9 +33,6 @@
       <image:loc>http://design102.github.com/images/kvh.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://design102.github.com/images/_onboarding-2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://design102.github.com/images/ani1-crop-u511.jpg</image:loc>
     </image:image>
     <image:image>
@@ -46,6 +43,9 @@
     </image:image>
     <image:image>
       <image:loc>http://design102.github.com/images/design102_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://design102.github.com/images/graphics.jpg</image:loc>
     </image:image>
   </url>
   <url>
