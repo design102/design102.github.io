@@ -50,44 +50,14 @@
   </url>
   <url>
     <loc>http://design102.github.com/portfolio.html</loc>
-    <lastmod>2019-10-21</lastmod>
+    <lastmod>2019-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://design102.github.com/images/poster.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://design102.github.com/images/a1-poster-rgb.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://design102.github.com/images/design102_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://design102.github.com/images/a1-poster-rgb-crop-u4944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://design102.github.com/images/poster-crop-u4942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://design102.github.com/images/kvh259x169.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://design102.github.com/images/kvh2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://design102.github.com/images/cactus.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://design102.github.com/images/trees.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://design102.github.com/graphics.html</loc>
-    <lastmod>2019-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://design102.github.com/images/poster.jpg</image:loc>
+      <image:loc>http://design102.github.com/images/kvh258x169.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://design102.github.com/images/a1-poster-rgb.jpg</image:loc>
@@ -99,18 +69,30 @@
       <image:loc>http://design102.github.com/images/design102_logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://design102.github.com/images/kvh569x374.png</image:loc>
+      <image:loc>http://design102.github.com/images/a1-poster-rgb-crop-u4944.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://design102.github.com/images/a1-poster-rgb-crop-u5482.jpg</image:loc>
+      <image:loc>http://design102.github.com/images/poster-crop-u4942.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://design102.github.com/images/poster-crop-u5484.jpg</image:loc>
+      <image:loc>http://design102.github.com/images/cactus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://design102.github.com/images/trees.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://design102.github.com/graphics.html</loc>
+    <lastmod>2019-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://design102.github.com/images/design102_logo.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://design102.github.com/animation.html</loc>
-    <lastmod>2019-10-21</lastmod>
+    <lastmod>2019-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

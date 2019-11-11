@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1571665336308">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1573503206978">
   <folder name="css">
-    <file name="site_global.css" crc="4050885443"/>
+    <file name="site_global.css" crc="4142842365"/>
     <file name="index.css" crc="4053718617" ref="index"/>
-    <file name="graphics.css" crc="6233829" ref="graphics"/>
-    <file name="portfolio.css" crc="3985886792" ref="portfolio"/>
-    <file name="animation.css" crc="3999344951" ref="animation"/>
+    <file name="graphics.css" crc="3953737255" ref="graphics"/>
+    <file name="portfolio.css" crc="103019928" ref="portfolio"/>
+    <file name="animation.css" crc="435648742" ref="animation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:graphics:animation"/>
@@ -15,21 +15,22 @@
     <file name="require.js" crc="4157109226" ref="index:portfolio:graphics:animation"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfolio:graphics:animation"/>
     <file name="webpro.js" crc="242022427" ref="index:portfolio:graphics:animation"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index:portfolio"/>
+    <file name="form_throttle.php" crc="93986428" ref="index:portfolio"/>
+    <file name="form_process.php" crc="3851993751" ref="index:portfolio"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:graphics:animation"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio:graphics:animation"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio:graphics:animation"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:portfolio:graphics:animation"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:portfolio"/>
     <file name="form-u1242.php" crc="471355441" ref="index"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="portfolio"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="portfolio:graphics"/>
     <file name="form-u4543.php" crc="355462254" ref="portfolio"/>
     <file name="form-u5424.php" crc="3932549402" ref="graphics"/>
     <file name="form-u6061.php" crc="3876507084" ref="animation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="graphics:animation"/>
   </folder>
   <folder name="images">
-    <file name="poster.jpg" crc="143238110" ref="index:portfolio:graphics" seo="true">
+    <file name="poster.jpg" crc="143238110" ref="index:portfolio" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="graphics" alt=""/>
@@ -37,18 +38,18 @@
     <file name="slide.jpg" crc="292935242" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:portfolio:graphics"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
     <file name="slide1.jpg" crc="4072892248" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="slide2.jpg" crc="49081098" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:portfolio:graphics:animation"/>
+    <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
     <file name="texture.jpg" crc="397322237" ref="index:graphics:animation">
       <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
       <caption webpage="graphics" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="a1-poster-rgb-crop-u3564.jpg" crc="4062817517" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -56,16 +57,18 @@
     <file name="poster-crop-u3648.jpg" crc="4127609786" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kvh258x169.png" crc="283676677" seo="true" ref="index">
+    <file name="kvh258x169.png" crc="283676677" seo="true" ref="index:portfolio">
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="a1-poster-rgb.jpg" crc="365419786" seo="true" ref="index:portfolio:graphics">
+    <file name="a1-poster-rgb.jpg" crc="365419786" seo="true" ref="index:portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="kvh.png" crc="4267371648" seo="true" ref="index:graphics">
+    <file name="kvh.png" crc="4267371648" seo="true" ref="index:portfolio">
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
     <file name="ani1-crop-u511.jpg" crc="273244859" seo="true" ref="index">
@@ -79,8 +82,8 @@
     </file>
     <file name="design102_logo.png" crc="533637624" seo="true" ref="index:portfolio:graphics:animation">
       <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="graphics" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
     <file name="a1-poster-rgb-crop-u4944.jpg" crc="4062817517" seo="true" ref="portfolio">
@@ -89,33 +92,66 @@
     <file name="poster-crop-u4942.jpg" crc="3805556505" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="kvh259x169.png" crc="4037761874" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="kvh2.png" crc="498246408" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
     <file name="cactus.jpg" crc="159521841" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="trees.jpg" crc="3834946433" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="kvh569x374.png" crc="4070382055" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="a1-poster-rgb-crop-u5482.jpg" crc="4062817517" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="poster-crop-u5484.jpg" crc="3805556505" seo="true" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
     <file name="graphics.jpg" crc="342266131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="pvsang.jpg" crc="155292958" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="poster-u8702-fr.jpg" crc="3981756443" ref="graphics"/>
+    <file name="kvh2.jpg" crc="267328525" ref="graphics:animation">
+      <caption webpage="animation" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="inno.jpg" crc="525161629" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="1-home cate.png" crc="4278528157" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="bia-1.png" crc="481813897" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="tunggo.jpg" crc="3843656624" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="vina.jpg" crc="4176255392" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="op11.jpg" crc="3804168499" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="haiha.jpg" crc="483056297" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="pvsang-u8914-fr.jpg" crc="361279072" ref="animation"/>
+    <file name="sinvoice.jpg" crc="4011973528" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="ani1.png" crc="509881583" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="ani3.jpg" crc="4101531890" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="capture.jpg" crc="3932844853" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="113361213" seo="true" mt="1571665326641" redirect="true"/>
-  <file name="portfolio.html" crc="472645723" seo="true" mt="1571664758606" redirect="true"/>
-  <file name="graphics.html" crc="392662817" seo="true" mt="1571664786258" redirect="true"/>
-  <file name="animation.html" crc="82720215" seo="true" mt="1571664812653" redirect="true"/>
+  <file name="portfolio.html" crc="49676653" seo="true" mt="1573490550449" redirect="true"/>
+  <file name="graphics.html" crc="117291674" seo="true" mt="1573503204704" redirect="true"/>
+  <file name="animation.html" crc="3905136787" seo="true" mt="1573503204853" redirect="true"/>
 </manifest>
