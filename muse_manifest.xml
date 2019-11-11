@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1573503700293">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1573503951282">
   <folder name="css">
     <file name="site_global.css" crc="4142842365"/>
-    <file name="index.css" crc="461493564" ref="index"/>
-    <file name="graphics.css" crc="52435757" ref="graphics"/>
+    <file name="index.css" crc="500982859" ref="index"/>
+    <file name="graphics.css" crc="4278701186" ref="graphics"/>
     <file name="portfolio.css" crc="103019928" ref="portfolio"/>
-    <file name="animation.css" crc="3797241699" ref="animation"/>
+    <file name="animation.css" crc="3999381280" ref="animation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:graphics:animation"/>
@@ -48,8 +48,8 @@
     <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
     <file name="texture.jpg" crc="397322237" ref="index:graphics:animation">
       <caption webpage="index" alt=""/>
-      <caption webpage="animation" alt=""/>
       <caption webpage="graphics" alt=""/>
+      <caption webpage="animation" alt=""/>
     </file>
     <file name="kvh258x169.png" crc="283676677" seo="true" ref="portfolio">
       <caption webpage="index" alt=""/>
@@ -93,10 +93,10 @@
       <caption webpage="graphics" alt=""/>
     </file>
     <file name="kvh2.jpg" crc="267328525" ref="graphics:index">
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="animation" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
     </file>
     <file name="inno.jpg" crc="525161629" ref="graphics:index">
       <caption webpage="index" alt=""/>
@@ -156,8 +156,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4178116363" seo="true" mt="1573503400787" redirect="true"/>
+  <file name="index.html" crc="474015821" seo="true" mt="1573503914855" redirect="true"/>
   <file name="portfolio.html" crc="49676653" seo="true" mt="1573490550449" redirect="true"/>
-  <file name="graphics.html" crc="83874654" seo="true" mt="1573503283995" redirect="true"/>
-  <file name="animation.html" crc="4135129255" seo="true" mt="1573503431532" redirect="true"/>
+  <file name="graphics.html" crc="4001770334" seo="true" mt="1573503876558" redirect="true"/>
+  <file name="animation.html" crc="115951463" seo="true" mt="1573503932455" redirect="true"/>
 </manifest>
