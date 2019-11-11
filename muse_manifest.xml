@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1573503206978">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1573503467550">
   <folder name="css">
     <file name="site_global.css" crc="4142842365"/>
-    <file name="index.css" crc="4053718617" ref="index"/>
-    <file name="graphics.css" crc="3953737255" ref="graphics"/>
+    <file name="index.css" crc="461493564" ref="index"/>
+    <file name="graphics.css" crc="52435757" ref="graphics"/>
     <file name="portfolio.css" crc="103019928" ref="portfolio"/>
-    <file name="animation.css" crc="435648742" ref="animation"/>
+    <file name="animation.css" crc="3797241699" ref="animation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:graphics:animation"/>
@@ -27,10 +27,10 @@
     <file name="form-u4543.php" crc="355462254" ref="portfolio"/>
     <file name="form-u5424.php" crc="3932549402" ref="graphics"/>
     <file name="form-u6061.php" crc="3876507084" ref="animation"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="graphics:animation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="graphics:animation:index"/>
   </folder>
   <folder name="images">
-    <file name="poster.jpg" crc="143238110" ref="index:portfolio" seo="true">
+    <file name="poster.jpg" crc="143238110" ref="portfolio" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="graphics" alt=""/>
@@ -48,36 +48,24 @@
     <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
     <file name="texture.jpg" crc="397322237" ref="index:graphics:animation">
       <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="animation" alt=""/>
+      <caption webpage="graphics" alt=""/>
     </file>
-    <file name="a1-poster-rgb-crop-u3564.jpg" crc="4062817517" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="poster-crop-u3648.jpg" crc="4127609786" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="kvh258x169.png" crc="283676677" seo="true" ref="index:portfolio">
+    <file name="kvh258x169.png" crc="283676677" seo="true" ref="portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="a1-poster-rgb.jpg" crc="365419786" seo="true" ref="index:portfolio">
+    <file name="a1-poster-rgb.jpg" crc="365419786" seo="true" ref="portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="kvh.png" crc="4267371648" seo="true" ref="index:portfolio">
+    <file name="kvh.png" crc="4267371648" seo="true" ref="portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="ani1-crop-u511.jpg" crc="273244859" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="vr.jpg" crc="318638769" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1-home cate-crop-u525.jpg" crc="4261163428" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="design102_logo.png" crc="533637624" seo="true" ref="index:portfolio:graphics:animation">
@@ -104,54 +92,72 @@
     <file name="pvsang.jpg" crc="155292958" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="poster-u8702-fr.jpg" crc="3981756443" ref="graphics"/>
-    <file name="kvh2.jpg" crc="267328525" ref="graphics:animation">
-      <caption webpage="animation" alt=""/>
+    <file name="kvh2.jpg" crc="267328525" ref="graphics:index">
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="inno.jpg" crc="525161629" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="1-home cate.png" crc="4278528157" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="bia-1.png" crc="481813897" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="tunggo.jpg" crc="3843656624" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="vina.jpg" crc="4176255392" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="op11.jpg" crc="3804168499" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="haiha.jpg" crc="483056297" ref="graphics">
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="pvsang-u8914-fr.jpg" crc="361279072" ref="animation"/>
-    <file name="sinvoice.jpg" crc="4011973528" ref="animation">
+      <caption webpage="index" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="ani1.png" crc="509881583" ref="animation">
+    <file name="inno.jpg" crc="525161629" ref="graphics:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="1-home cate.png" crc="4278528157" ref="graphics:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="bia-1.png" crc="481813897" ref="graphics:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="tunggo.jpg" crc="3843656624" ref="graphics:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="vina.jpg" crc="4176255392" ref="graphics:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="op11.jpg" crc="3804168499" ref="graphics:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="haiha.jpg" crc="483056297" ref="graphics:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="sinvoice.jpg" crc="4011973528" ref="animation:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="ani3.jpg" crc="4101531890" ref="animation">
+    <file name="ani1.png" crc="509881583" ref="animation:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="capture.jpg" crc="3932844853" ref="animation">
+    <file name="ani3.jpg" crc="4101531890" ref="animation:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="animation" alt=""/>
+    </file>
+    <file name="capture.jpg" crc="3932844853" ref="animation:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="poster-u8968-fr.jpg" crc="3981756443" ref="index:graphics"/>
+    <file name="pvsang-u8998-fr.jpg" crc="361279072" ref="index:animation"/>
+    <file name="ani1-crop-u511.png" crc="267159068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-home cate-crop-u525.png" crc="83744490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="113361213" seo="true" mt="1571665326641" redirect="true"/>
+  <file name="index.html" crc="4178116363" seo="true" mt="1573503400787" redirect="true"/>
   <file name="portfolio.html" crc="49676653" seo="true" mt="1573490550449" redirect="true"/>
-  <file name="graphics.html" crc="117291674" seo="true" mt="1573503204704" redirect="true"/>
-  <file name="animation.html" crc="3905136787" seo="true" mt="1573503204853" redirect="true"/>
+  <file name="graphics.html" crc="83874654" seo="true" mt="1573503283995" redirect="true"/>
+  <file name="animation.html" crc="4135129255" seo="true" mt="1573503431532" redirect="true"/>
 </manifest>
