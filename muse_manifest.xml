@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1573503951282">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1573518930930">
   <folder name="css">
-    <file name="site_global.css" crc="4142842365"/>
-    <file name="index.css" crc="500982859" ref="index"/>
-    <file name="graphics.css" crc="4278701186" ref="graphics"/>
-    <file name="portfolio.css" crc="103019928" ref="portfolio"/>
-    <file name="animation.css" crc="3999381280" ref="animation"/>
+    <file name="site_global.css" crc="4050885443"/>
+    <file name="index.css" crc="3790501095" ref="index"/>
+    <file name="graphics.css" crc="4046454107" ref="graphics"/>
+    <file name="portfolio.css" crc="4190869901" ref="portfolio"/>
+    <file name="animation.css" crc="169447989" ref="animation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:graphics:animation"/>
@@ -15,9 +15,9 @@
     <file name="require.js" crc="4157109226" ref="index:portfolio:graphics:animation"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfolio:graphics:animation"/>
     <file name="webpro.js" crc="242022427" ref="index:portfolio:graphics:animation"/>
-    <file name="form_check.php" crc="147359589" ref="index:portfolio"/>
-    <file name="form_throttle.php" crc="93986428" ref="index:portfolio"/>
-    <file name="form_process.php" crc="3851993751" ref="index:portfolio"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:graphics:animation"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio"/>
@@ -48,8 +48,8 @@
     <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
     <file name="texture.jpg" crc="397322237" ref="index:graphics:animation">
       <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="animation" alt=""/>
+      <caption webpage="graphics" alt=""/>
     </file>
     <file name="kvh258x169.png" crc="283676677" seo="true" ref="portfolio">
       <caption webpage="index" alt=""/>
@@ -70,8 +70,8 @@
     </file>
     <file name="design102_logo.png" crc="533637624" seo="true" ref="index:portfolio:graphics:animation">
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="graphics" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
     <file name="a1-poster-rgb-crop-u4944.jpg" crc="4062817517" seo="true" ref="portfolio">
@@ -94,9 +94,9 @@
     </file>
     <file name="kvh2.jpg" crc="267328525" ref="graphics:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
       <caption webpage="animation" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
     </file>
     <file name="inno.jpg" crc="525161629" ref="graphics:index">
       <caption webpage="index" alt=""/>
@@ -156,8 +156,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="474015821" seo="true" mt="1573503914855" redirect="true"/>
-  <file name="portfolio.html" crc="49676653" seo="true" mt="1573490550449" redirect="true"/>
-  <file name="graphics.html" crc="4001770334" seo="true" mt="1573503876558" redirect="true"/>
-  <file name="animation.html" crc="115951463" seo="true" mt="1573503932455" redirect="true"/>
+  <file name="index.html" crc="118594918" seo="true" mt="1573518885706" redirect="true"/>
+  <file name="portfolio.html" crc="296996038" seo="true" mt="1573518915124" redirect="true"/>
+  <file name="graphics.html" crc="3903728950" seo="true" mt="1573518896957" redirect="true"/>
+  <file name="animation.html" crc="3852020715" seo="true" mt="1573518906916" redirect="true"/>
 </manifest>
