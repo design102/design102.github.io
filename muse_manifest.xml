@@ -1,90 +1,74 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1573518930930">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="design102.github.com" resolutions="1x" timestamp="1574086093499">
   <folder name="css">
     <file name="site_global.css" crc="4050885443"/>
-    <file name="index.css" crc="3790501095" ref="index"/>
-    <file name="graphics.css" crc="4046454107" ref="graphics"/>
-    <file name="portfolio.css" crc="4190869901" ref="portfolio"/>
-    <file name="animation.css" crc="169447989" ref="animation"/>
+    <file name="index.css" crc="380172465" ref="index"/>
+    <file name="graphics.css" crc="4192753815" ref="graphics"/>
+    <file name="animation.css" crc="250243044" ref="animation"/>
+    <file name="__ng-dao-vi_t-nam.css" crc="3889046101" ref="đồng-dao-việt-nam"/>
+    <file name="vrar.css" crc="3854983646" ref="vrar"/>
+    <file name="greenvn.css" crc="452755393" ref="greenvn"/>
+    <file name="jamja-uxui.css" crc="3920856301" ref="jamja-uxui"/>
+    <file name="kaquya.css" crc="3850595645" ref="kaquya"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:graphics:animation"/>
-    <file name="museutils.js" crc="3803043152" ref="index:portfolio:graphics:animation"/>
-    <file name="whatinput.js" crc="86476730" ref="index:portfolio:graphics:animation"/>
-    <file name="museconfig.js" crc="380897831" ref="index:portfolio:graphics:animation"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio:graphics:animation"/>
-    <file name="require.js" crc="4157109226" ref="index:portfolio:graphics:animation"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfolio:graphics:animation"/>
-    <file name="webpro.js" crc="242022427" ref="index:portfolio:graphics:animation"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="museutils.js" crc="3803043152" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="whatinput.js" crc="86476730" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="museconfig.js" crc="380897831" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="require.js" crc="4157109226" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="webpro.js" crc="242022427" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:graphics:animation"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:portfolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya"/>
     <file name="form-u1242.php" crc="471355441" ref="index"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="portfolio:graphics"/>
-    <file name="form-u4543.php" crc="355462254" ref="portfolio"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="graphics"/>
     <file name="form-u5424.php" crc="3932549402" ref="graphics"/>
     <file name="form-u6061.php" crc="3876507084" ref="animation"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="graphics:animation:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="graphics:animation:index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar"/>
+    <file name="form-u9759.php" crc="217367451" ref="jamja-uxui"/>
+    <file name="form-u10659.php" crc="306661119" ref="đồng-dao-việt-nam"/>
+    <file name="form-u11877.php" crc="4000558006" ref="greenvn"/>
+    <file name="form-u12834.php" crc="3769330545" ref="kaquya"/>
+    <file name="form-u14400.php" crc="426990118" ref="vrar"/>
   </folder>
   <folder name="images">
-    <file name="poster.jpg" crc="143238110" ref="portfolio" seo="true">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
     <file name="slide.jpg" crc="292935242" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
+    <file name="blank.gif" crc="4208392903" ref="index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya"/>
     <file name="slide1.jpg" crc="4072892248" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="slide2.jpg" crc="49081098" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
-    <file name="texture.jpg" crc="397322237" ref="index:graphics:animation">
+    <file name="loading.gif" crc="3815509949" ref="index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya"/>
+    <file name="texture.jpg" crc="397322237" ref="index:graphics:animation:vrar">
       <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
       <caption webpage="animation" alt=""/>
+      <caption webpage="vrar" alt=""/>
+    </file>
+    <file name="vr.jpg" crc="294384931" seo="true" ref="vrar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="vrar" alt=""/>
+    </file>
+    <file name="design102_logo.png" crc="533637624" seo="true" ref="index:graphics:animation:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya:vrar">
+      <caption webpage="kaquya" alt=""/>
       <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="kvh258x169.png" crc="283676677" seo="true" ref="portfolio">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+      <caption webpage="greenvn" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="a1-poster-rgb.jpg" crc="365419786" seo="true" ref="portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="kvh.png" crc="4267371648" seo="true" ref="portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="vr.jpg" crc="318638769" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="design102_logo.png" crc="533637624" seo="true" ref="index:portfolio:graphics:animation">
-      <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
+      <caption webpage="jamja-uxui" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="animation" alt=""/>
-    </file>
-    <file name="a1-poster-rgb-crop-u4944.jpg" crc="4062817517" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="poster-crop-u4942.jpg" crc="3805556505" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="cactus.jpg" crc="159521841" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="trees.jpg" crc="3834946433" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
+      <caption webpage="vrar" alt=""/>
     </file>
     <file name="graphics.jpg" crc="342266131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -92,42 +76,53 @@
     <file name="pvsang.jpg" crc="155292958" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="kvh2.jpg" crc="267328525" ref="graphics:index">
+    <file name="kvh2.jpg" crc="267328525" ref="graphics">
       <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="animation" alt=""/>
-    </file>
-    <file name="inno.jpg" crc="525161629" ref="graphics:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="1-home cate.png" crc="4278528157" ref="graphics:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="bia-1.png" crc="481813897" ref="graphics:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="tunggo.jpg" crc="3843656624" ref="graphics:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-    </file>
-    <file name="vina.jpg" crc="4176255392" ref="graphics:index">
+    <file name="inno.jpg" crc="525161629" ref="graphics">
       <caption webpage="index" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
-    <file name="op11.jpg" crc="3804168499" ref="graphics:index">
+    <file name="1-home cate.png" crc="4278528157" ref="graphics:index:đồng-dao-việt-nam:greenvn:kaquya">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kaquya" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="bia-1.png" crc="481813897" ref="graphics:index:jamja-uxui:đồng-dao-việt-nam:greenvn">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jamja-uxui" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="tunggo.jpg" crc="3843656624" ref="graphics:index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jamja-uxui" alt=""/>
+      <caption webpage="kaquya" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="vina.jpg" crc="4176255392" ref="graphics:index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya">
       <caption webpage="index" alt=""/>
       <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
     </file>
-    <file name="haiha.jpg" crc="483056297" ref="graphics:index">
+    <file name="op11.jpg" crc="3804168499" ref="graphics:index:jamja-uxui:đồng-dao-việt-nam:kaquya">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jamja-uxui" alt=""/>
+      <caption webpage="kaquya" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="haiha.jpg" crc="483056297" ref="graphics:index:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya">
       <caption webpage="index" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
@@ -147,7 +142,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="poster-u8968-fr.jpg" crc="3981756443" ref="index:graphics"/>
+    <file name="poster-u8968-fr.jpg" crc="3981756443" ref="index:graphics:jamja-uxui:greenvn:kaquya"/>
     <file name="pvsang-u8998-fr.jpg" crc="361279072" ref="index:animation"/>
     <file name="ani1-crop-u511.png" crc="267159068" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -155,9 +150,273 @@
     <file name="1-home cate-crop-u525.png" crc="83744490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sanguix.jpg" crc="376518747" ref="index:graphics:jamja-uxui:đồng-dao-việt-nam:greenvn:kaquya">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jamja-uxui" alt=""/>
+      <caption webpage="kaquya" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="bantambao.jpg" crc="4022563981" ref="index:vrar">
+      <caption webpage="index" alt=""/>
+      <caption webpage="vrar" alt=""/>
+    </file>
+    <file name="vr297x180.jpg" crc="4273319677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_onboarding 1.jpg" crc="60741668" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="1-home cate-crop-u10364.jpg" crc="418904638" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_onboarding 2.jpg" crc="225625540" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_onboarding 3.jpg" crc="3937780176" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_permission-1-crop-u9971.jpg" crc="3907173038" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_permission-2-crop-u9997.jpg" crc="4202886852" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="3-home detail.jpg" crc="4015058860" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="7-get-code-sucesss.jpg" crc="3861584272" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_onboarding 1-crop-u9901.jpg" crc="4185839689" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="1-home cate10x45.jpg" crc="164855020" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_onboarding 2-crop-u9927.jpg" crc="375469867" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_onboarding 3-crop-u9953.jpg" crc="531653322" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_permission-1-crop-u9979.jpg" crc="516762078" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="_permission-2-crop-u10005.jpg" crc="302691149" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="3-home detail-crop-u10031.jpg" crc="3884776304" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="7-get-code-sucesss-crop-u10161.jpg" crc="19727831" seo="true" ref="jamja-uxui">
+      <caption webpage="jamja-uxui" alt=""/>
+    </file>
+    <file name="bia mockup.jpg" crc="3762592338" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-03.jpg" crc="235793501" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-04.jpg" crc="471938447" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-05.jpg" crc="24348737" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-06.jpg" crc="4054981439" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-07.jpg" crc="393570124" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-08.jpg" crc="165511634" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-09.jpg" crc="499437582" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-10.jpg" crc="345529671" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-11.jpg" crc="4061492700" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-12.jpg" crc="393551204" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-13.jpg" crc="4095930885" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bia mockup60x42.jpg" crc="283575418" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-0360x27.jpg" crc="66283473" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-0460x27.jpg" crc="4257364722" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-0560x27.jpg" crc="445044245" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-0660x27.jpg" crc="176982936" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-0760x27.jpg" crc="161652369" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-0860x27.jpg" crc="4235546403" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-0960x27.jpg" crc="3979023528" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-1060x27.jpg" crc="3760878307" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-1160x27.jpg" crc="3971096777" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-1260x27.jpg" crc="4202704346" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="bc-1360x27.jpg" crc="248811431" seo="true" ref="đồng-dao-việt-nam">
+      <caption webpage="đồng-dao-việt-nam" alt=""/>
+    </file>
+    <file name="banner.jpg" crc="240719693" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="cardvisit_op1.png" crc="362738170" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="màu.jpg" crc="4013054687" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3916021005" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="2.jpg" crc="230830768" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3855652358" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="op1.jpg" crc="4209660829" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="postfb.jpg" crc="3888094098" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="banner60x29.jpg" crc="419676755" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="cardvisit_op160x45.png" crc="4194922471" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="138x45.jpg" crc="74213869" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="232x45.jpg" crc="3780194638" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="343x45.jpg" crc="42054375" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="op160x40.jpg" crc="49146262" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="postfb45x45.jpg" crc="3896139997" seo="true" ref="greenvn">
+      <caption webpage="greenvn" alt=""/>
+    </file>
+    <file name="bia 1.jpg" crc="4137105248" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="bia 3.jpg" crc="3830294473" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="danh dau sach.jpg" crc="4043452019" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="noi dung sach.jpg" crc="3962147961" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="bìa lót 1.jpg" crc="498557553" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="bìa lót 2.jpg" crc="4281445805" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 2.jpg" crc="118866086" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 5.jpg" crc="3880590353" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 6.jpg" crc="4231404161" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 9.jpg" crc="3869119770" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 10.jpg" crc="331565883" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 11.jpg" crc="4180542135" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 13.jpg" crc="3809222192" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="bia 160x39.jpg" crc="471997118" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="bia 360x34.jpg" crc="4291887631" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="danh dau sach60x36.jpg" crc="109919784" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="noi dung sach60x44.jpg" crc="3865167798" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="bìa lót 160x43.jpg" crc="3974525412" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="bìa lót 260x43.jpg" crc="3900286666" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 260x43.jpg" crc="3758824291" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 560x43.jpg" crc="3994501805" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 660x43.jpg" crc="304712868" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 960x43.jpg" crc="4065457703" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 1060x43.jpg" crc="99905528" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 1160x43.jpg" crc="104633276" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
+    <file name="trang 1360x43.jpg" crc="4272126692" seo="true" ref="kaquya">
+      <caption webpage="kaquya" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="118594918" seo="true" mt="1573518885706" redirect="true"/>
-  <file name="portfolio.html" crc="296996038" seo="true" mt="1573518915124" redirect="true"/>
-  <file name="graphics.html" crc="3903728950" seo="true" mt="1573518896957" redirect="true"/>
-  <file name="animation.html" crc="3852020715" seo="true" mt="1573518906916" redirect="true"/>
+  <file name="index.html" crc="49547528" seo="true" mt="1574086088187" redirect="true"/>
+  <file name="graphics.html" crc="3843051262" seo="true" mt="1574086088135" redirect="true"/>
+  <file name="animation.html" crc="51225091" seo="true" mt="1574085979990" redirect="true"/>
+  <file name="jamja-uxui.html" crc="3817489195" seo="true" mt="1574086088136" redirect="true"/>
+  <file name="đồng-dao-việt-nam.html" crc="4005225302" seo="true" mt="1574086088137" redirect="true"/>
+  <file name="greenvn.html" crc="430830395" seo="true" mt="1574086088140" redirect="true"/>
+  <file name="kaquya.html" crc="3865604453" seo="true" mt="1574086088139" redirect="true"/>
+  <file name="vrar.html" crc="449137702" seo="true" mt="1574086088188" redirect="true"/>
 </manifest>
